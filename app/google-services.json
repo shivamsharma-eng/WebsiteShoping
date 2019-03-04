@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "917257755621",
+    "firebase_url": "https://websiteshopping-d4ea8.firebaseio.com",
+    "project_id": "websiteshopping-d4ea8",
+    "storage_bucket": "websiteshopping-d4ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917257755621:android:97d8ed817f2ae872",
+        "android_client_info": {
+          "package_name": "com.project.geekynehal.websiteshoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917257755621-jg08ctoih5so5d1gvu3o4dict0d3kq0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4LI1U3KECOH-DTRpKE2lfenU8I5suxss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
